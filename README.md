@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm MD. Maksudur Rahman</h1>
 <h3 align="center">A Passionate Full Stack Web Developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrjihad-1999&label=Profile%20views&color=0e75b6&style=flat" alt="mrjihad-1999" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrjihaddu1999-glitch&label=Profile%20views&color=0e75b6&style=flat" alt="mrjihad-1999" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrjihad-1999" alt="mrjihad-1999" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrjihaddu1999-glitch" alt="mrjihaddu1999-glitch" /></a> </p>
 
 - 🌱 I’m currently learning **Javascript**
 
@@ -28,4 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrjihad-1999&show_icons=true&locale=en" alt="mrjihad-1999" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrjihad-1999&" alt="mrjihad-1999" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrjihaddu1999-glitch&" alt="mrjihaddu1999-glitch" /></p>
